@@ -6,3 +6,5 @@
 "/var/spool/samba/**" rwkl,
 "/var/lib/samba/printers/"   rk,
 "/var/lib/samba/printers/**" rwkl,
+"/ict-utility/"   rk,
+"/ict-utility/**" rwkl,
