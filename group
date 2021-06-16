@@ -59,3 +59,4 @@ sssd:x:117:
 rdma:x:118:
 sambashare:x:119:
 tashatest:x:1001:
+winbindd_priv:x:120:
