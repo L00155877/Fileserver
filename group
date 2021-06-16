@@ -58,3 +58,4 @@ administrator:x:1000:
 sssd:x:117:
 rdma:x:118:
 sambashare:x:119:
+tashatest:x:1001:
