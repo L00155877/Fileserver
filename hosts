@@ -1,5 +1,6 @@
 127.0.0.1 localhost
 127.0.1.1 fileserver.l00155877.lyit fileserver
+172.18.68.2 dc1-ad.l00155877.lyit
 
 # The following lines are desirable for IPv6 capable hosts
 ::1     ip6-localhost ip6-loopback

@@ -2,6 +2,8 @@
 
 "/ict-utility//"   rk,
 "/ict-utility//**" rwkl,
+"/home/samba/netlogon/"   rk,
+"/home/samba/netlogon/**" rwkl,
 "/var/spool/samba/"   rk,
 "/var/spool/samba/**" rwkl,
 "/var/lib/samba/printers/"   rk,

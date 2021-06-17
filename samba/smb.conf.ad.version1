@@ -1,0 +1,10 @@
+
+workgroup = LAB
+password server = dc1-ad.l00155877.lyit
+realm = l00155877.lyit
+security = ads
+idmap config * : range = 16777216-33554431
+template homedir = /home/%D/%U
+template shell = /bin/bash
+winbind use default domain = true
+winbind offline logon = false
