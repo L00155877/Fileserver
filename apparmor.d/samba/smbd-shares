@@ -12,3 +12,5 @@
 "/linuxshares/**" rwkl,
 "/projectsharedemo/"   rk,
 "/projectsharedemo/**" rwkl,
+"/test2/"   rk,
+"/test2/**" rwkl,
